@@ -1,7 +1,7 @@
 # Python -Technical Question
 
 - [Question 1](#question-1)
-- [Question 2](#Question-2)
+- [Question 2](#question-2)
 
 ## Question 1
  
