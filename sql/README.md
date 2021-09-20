@@ -25,7 +25,8 @@ INSERT INTO sales VALUES (5, 10, 'John', '2020-01-05');
 INSERT INTO sales VALUES (6, 150, 'Andy', '2021-01-01');
 INSERT INTO sales VALUES (7, 100, 'Tom', '2020-01-03');
 ```
-##Question 2
+
+## Question 2
 
 First create the table useing the below SQL.
 
