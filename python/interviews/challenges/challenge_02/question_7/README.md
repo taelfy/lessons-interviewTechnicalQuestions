@@ -1,9 +1,9 @@
-##Question 7
+## Question 7
 Document what components an enterprise machine learning system would have if you had the time to add it
 
 What are some things that are critical to have versus nice to have?
 
-##Answer
+## Answer
 This project was done with all free services in a short amount of time. With proper time and enterprise level platforms, it would unlock much more services, increase robustness and be architectured with even better solutions and processes.
 
 These notes are only a subsection of thought. There are plenty of other points to add but these are a few that come to mind.

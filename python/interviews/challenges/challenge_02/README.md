@@ -1,16 +1,16 @@
 # ML - Engineering Challenge
 # Table of Contents
 - [Introduction](#Introduction)
-- [Question 0](#Question 0)
-- [Question 1](#Question 1)
-- [Question 2](#Question 2)
-- [Question 3](#Question 3)
-- [Question 4](#Question 4)
-- [Question 5](#Question 5)
-- [Question 6](#Question 6)
-- [Question 7](#Question 7)
-- [Assessment Criterion](#Assessment Criterion)
-- [Main Solution](#Main Solution)
+- [Question 0](#Question-0)
+- [Question 1](#Question-1)
+- [Question 2](#Question-2)
+- [Question 3](#Question-3)
+- [Question 4](#Question-4)
+- [Question 5](#Question-5)
+- [Question 6](#Question-6)
+- [Question 7](#Question-7)
+- [Assessment Criterion](#Assessment-Criterion)
+- [Main Solution](#Main-Solution)
 
 # Introduction
 

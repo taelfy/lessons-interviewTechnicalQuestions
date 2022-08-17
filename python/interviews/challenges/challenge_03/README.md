@@ -1,6 +1,7 @@
- # Forecasting Technical Challenge
+# Forecasting Technical Challenge
 
-# Objective
+# Problem Statement
+## Objective
 
 The Company has engaged the Advanced Analytics team to forecast total beer market (Company + competitors) for NSW across both the tap and pack market. The forecast has to be monthly volume for the next 12 months. 
 
@@ -8,11 +9,11 @@ Legend:
 - Tap = On premise e.g. pubs
 - Pack = Off premise e.g. Bottleshops such as Dan Murphy etc
 
-# Context
+## Context
 
 The output from this model will be compared to the Company’s volume projection created by the sales team to highlight any risk and/or opportunities that the Leadership team needs to be aware of. This will be presented at the Demand Review forum which is held monthly and attended by the leadership team.  
 
-# Your Task
+## Your Task
 - Create an output using Python 
 - Prepare a short presentation deck. Some considerations to include in your presentation:
     - Approach and process in tackling this task with Richard to get to a good business outcome?
@@ -22,6 +23,12 @@ The output from this model will be compared to the Company’s volume projection
 
 Note: Please feel free to reach out and ask any questions you may have. We are also comfortable for you to make any logical assumptions as necessary. 
 
-# Guidance
+## Guidance
 
 For context- we’re not looking for a super polished presentation deck. We’re interested in understanding your approach, thought process, and ability to formulate ideas/business cases to present to senior stakeholders. Enjoy yourself- we’re glad to have you along ☺ 
+
+# Solution
+
+- The `presso` folder contain the presentation
+- After you setup your env, you can run `main.py` that will do the modelling process. You can comment/uncomment the plotting as you desire
+- There are TODO improvements that can be made to the model
